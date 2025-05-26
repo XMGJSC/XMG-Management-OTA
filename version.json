@@ -1,0 +1,10 @@
+{
+  "version": "0.0.0",
+  "build": 3,
+  "allowOTAUpdate": false,
+  "newFeatures": [
+    "Thêm thông báo cho phép hiển thị danh sách tính năng mới/tính năng được sửa lỗi/tính năng được cải thiện trong phiên bản tiếp theo!"
+  ],
+  "bugFixed": [],
+  "improvedFeatures": []
+}
