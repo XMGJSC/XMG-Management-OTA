@@ -1,10 +1,11 @@
 {
-  "version": "0.0.0",
-  "build": 3,
-  "allowOTAUpdate": false,
-  "newFeatures": [
-    "Thêm thông báo cho phép hiển thị danh sách tính năng mới/tính năng được sửa lỗi/tính năng được cải thiện trong phiên bản tiếp theo!"
-  ],
+  "version": "0.0.1",
+  "build": 0,
+  "allowOTAUpdate": true,
+  "newFeatures": [],
   "bugFixed": [],
-  "improvedFeatures": []
+  "improvedFeatures": [
+    "Tự động điền số km nhận khi trả phương tiện",
+    "Tự động cuộn bàn phím lên khi nhập tình trạng phương tiện"
+  ]
 }
