@@ -1,11 +1,8 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "build": 0,
   "allowOTAUpdate": true,
   "newFeatures": [],
   "bugFixed": [],
-  "improvedFeatures": [
-    "Tự động điền số km nhận khi trả phương tiện",
-    "Tự động cuộn bàn phím lên khi nhập tình trạng phương tiện"
-  ]
+  "improvedFeatures": ["Thêm màu sắc nhận biết trạng thái lịch thi"]
 }
